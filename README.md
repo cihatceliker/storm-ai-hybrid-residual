@@ -9,7 +9,6 @@ conda install -c conda-forge orekit=12.1.2
 pip install -r requirements.txt
 pip3 install torch==2.4.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 pip install numpy==1.24.3
-pip install pandas==2.0.3
 ```
 
 ## 2 · Put the raw data in place
